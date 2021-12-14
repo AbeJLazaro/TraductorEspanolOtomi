@@ -6,8 +6,8 @@
 
 ## Autores
 
-* Lázaro Martínez Abraham Josué [email](abrahamlazaro@comunidad.unam.mx)
-* Guerra Silva Erick Iván [email](erickivanguerra0.0@gmail.com)
-* Martínez Gutiérrez Carlos Giovanni [email](cgiovanni@comunidad.unam.mx)
-* Oropeza Castañeda Ángel Eduardo [email](angelorocasfi@gmail.com)
-* Gamiño González José Luis [email](ronluis0905@gmail.com)
+* Lázaro Martínez Abraham Josué *(abrahamlazaro@comunidad.unam.mx)*
+* Guerra Silva Erick Iván *(erickivanguerra0.0@gmail.com)*
+* Martínez Gutiérrez Carlos Giovanni *(cgiovanni@comunidad.unam.mx)*
+* Oropeza Castañeda Ángel Eduardo *(angelorocasfi@gmail.com)*
+* Gamiño González José Luis *(ronluis0905@gmail.com)*
